@@ -49,7 +49,7 @@ function Header() {
   return (
     <>
       <div>
-        <h1>🌴🌴Travel list🌴🌴</h1>
+        <h1>🌴🌴Miraj Travel list🌴🌴</h1>
       </div>
     </>
   )
